@@ -1,1 +1,2 @@
 # Sistema-de-gerenciamento-de-estoque
+O Sistema de Gerenciamento de Produtos é uma aplicação web desenvolvida para facilitar o controle e a organização de estoques de produtos em diversos tipos de empresas. Utilizando tecnologias modernas, como HTML, CSS, JavaScript para o front-end e PHP para o back-end, o sistema oferece uma interface intuitiva e responsiva, acessível a partir de qualquer dispositivo com conexão à internet.
